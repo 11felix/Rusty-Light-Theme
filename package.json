@@ -1,0 +1,21 @@
+{
+  "name": "rusty-light-theme",
+  "displayName": "Rusty Light",
+  "description": "A light theme inspired by the Rust documentation.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rusty Light",
+        "uiTheme": "vs",
+        "path": "./themes/Rusty Light Theme-color-theme.json"
+      }
+    ]
+  }
+}
