@@ -5,7 +5,7 @@
   "colors": {
     // Editor Colors
     "editor.background": "#e1e1da", // Default editor background color
-    "editor.foreground": "#9b9ba0", // Default editor text color
+    "editor.foreground": "#9e9ea2", // Default editor text color
 
     // Suggest Widget (Autocomplete)
     "editorSuggestWidget.background": "#e1e1da",
